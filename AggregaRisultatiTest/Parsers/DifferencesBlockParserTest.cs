@@ -26,6 +26,7 @@ public class DifferencesBlockParserTest
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("1110856");
+		difference.IsParziale.Should().BeTrue();
 		difference.ImportoNettoCics.Should().Be("751.152");
 		difference.ImportoLordoCics.Should().Be("761.502");
 		difference.ImposteLordoCics.Should().Be("10.350");
@@ -34,6 +35,7 @@ public class DifferencesBlockParserTest
 		difference.ImportoLordoAlbedino.Should().NotBeNull().And.BeEmpty();
 		difference.ImposteLordoAlbedino.Should().NotBeNull().And.BeEmpty();
 		difference.ErroreAlbedino.Should().Be("Errore Albedino");
+		difference.Errore.Should().Be("Errore Albedino");
 	}
 
 	[Fact]
@@ -50,6 +52,7 @@ public class DifferencesBlockParserTest
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("1110857");
+		difference.IsParziale.Should().BeTrue();
 		difference.ImportoNettoCics.Should().Be("751.152");
 		difference.ImportoLordoCics.Should().Be("761.502");
 		difference.ImposteLordoCics.Should().Be("10.350");
@@ -63,6 +66,7 @@ public class DifferencesBlockParserTest
 Caused by ...
 	at sun.1
 	...");
+		difference.Errore.Should().Be("Errore albedino");
 	}
 
 	[Fact]
@@ -79,6 +83,7 @@ Caused by ...
 		difference.Categoria.Should().Be("21");
 		difference.NumeroCollettiva.Should().Be("10");
 		difference.NumeroPolizza.Should().Be("1337262");
+		difference.IsParziale.Should().BeFalse();
 		difference.ImportoNettoCics.Should().Be("0.000");
 		difference.ImportoLordoCics.Should().NotBeNull().And.BeEmpty();
 		difference.ImposteLordoCics.Should().Be("0.000");
@@ -92,6 +97,8 @@ Caused by ...
 Caused by ...
 	at sun.1
 	...");
+		difference.Errore.Should().Be(@"Errore cics
+Errore albedino");
 	}
 
 
@@ -109,6 +116,7 @@ Caused by ...
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("1337263");
+		difference.IsParziale.Should().BeFalse();
 		difference.ImportoNettoCics.Should().Be("0.000");
 		difference.ImportoLordoCics.Should().NotBeNull().And.BeEmpty();
 		difference.ImposteLordoCics.Should().Be("0.000");
@@ -117,6 +125,7 @@ Caused by ...
 		difference.ImportoLordoAlbedino.Should().Be("18970.680");
 		difference.ImposteLordoAlbedino.Should().Be("0.000");
 		difference.ErroreAlbedino.Should().BeNull();
+		difference.Errore.Should().Be("Errore cics");
 	}
 
 
@@ -134,6 +143,7 @@ Caused by ...
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("1337264");
+		difference.IsParziale.Should().BeFalse();
 		difference.ImportoNettoCics.Should().Be("0.000");
 		difference.ImportoLordoCics.Should().NotBeNull().And.BeEmpty();
 		difference.ImposteLordoCics.Should().Be("0.000");
@@ -147,6 +157,7 @@ Caused by ...
 		difference.ImportoLordoAlbedino.Should().Be("18970.680");
 		difference.ImposteLordoAlbedino.Should().Be("0.000");
 		difference.ErroreAlbedino.Should().BeNull();
+		difference.Errore.Should().Be("Errore cics");
 	}
 
 
@@ -164,6 +175,7 @@ Caused by ...
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("895306");
+		difference.IsParziale.Should().BeFalse();
 		difference.ImportoNettoCics.Should().BeNull();
 		difference.ImportoLordoCics.Should().BeNull();
 		difference.ImposteLordoCics.Should().BeNull();
@@ -180,6 +192,7 @@ Caused by ...
 		difference.ImportoLordoAlbedino.Should().BeNull();
 		difference.ImposteLordoAlbedino.Should().BeNull();
 		difference.ErroreAlbedino.Should().BeNull();
+		difference.Errore.Should().Be("com.ibm.connector2.cics.CICSTxnAbendException: CTG9638E Transaction Abend occurred in CICS. Abend Code=: AZI6, error code: AZI6");
 	}
 
 	[Fact]
@@ -196,6 +209,7 @@ Caused by ...
 		difference.Categoria.Should().Be("11");
 		difference.NumeroCollettiva.Should().Be("0");
 		difference.NumeroPolizza.Should().Be("890284");
+		difference.IsParziale.Should().BeFalse();
 		difference.ImportoNettoCics.Should().Be("26677.790");
 		difference.ImportoLordoCics.Should().Be("26677.780");
 		difference.ImposteLordoCics.Should().Be("0.000");
@@ -204,6 +218,7 @@ Caused by ...
 		difference.ImportoLordoAlbedino.Should().Be("26677.790");
 		difference.ImposteLordoAlbedino.Should().Be("0.000");
 		difference.ErroreAlbedino.Should().BeNull();
+		difference.Errore.Should().Be("importi diversi");
 	}
 
 	private static string ReadBlock(string fileName)

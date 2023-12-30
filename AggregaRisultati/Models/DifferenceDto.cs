@@ -8,6 +8,8 @@ public class DifferenceDto
 	public string? Categoria { get; set; }
 	public string? NumeroCollettiva { get; set; }
 	public string? NumeroPolizza { get; set; }
+	public bool IsParziale { get; set; }
+	public string? Errore { get; set; }
 	public string? ErroreCics { get; set; }
 	public string? ErroreAlbedino { get; set; }
 	public string? ImportoNettoCics { get; set; }

@@ -69,7 +69,35 @@ public class DifferencesBlockParser
 		}
 		AddErrorData(difference, foundSeparator, cicsError, albedinoError, cumulative);
 
+		AddFinalError(difference);
+
 		return difference;
+	}
+
+	private void AddFinalError(DifferenceDto difference)
+	{
+		string cicsError = ReadFirstLine(difference.ErroreCics);
+		string albedinoError = ReadFirstLine(difference.ErroreAlbedino);
+
+		string error = cicsError;
+		if (!string.IsNullOrEmpty(error) && !string.IsNullOrEmpty(albedinoError))
+		{
+			error += Environment.NewLine;
+		}
+		error += albedinoError;
+
+		if (string.IsNullOrEmpty(error))
+		{
+			error += "importi diversi";
+		}
+
+		difference.Errore = error;
+	}
+
+	private static string ReadFirstLine(string? text)
+	{
+		var reader = new StringReader(text ?? "");
+		return reader.ReadLine() ?? "";
 	}
 
 	private void AddPolizzaKey(DifferenceDto difference, string line)
@@ -88,6 +116,7 @@ public class DifferencesBlockParser
 		difference.NumeroPolizza = ExtractAndClean(line, indexOfNumeroPolizza, indexOfAgenziaGestione);
 		difference.AgenziaGestione = ExtractAndClean(line, indexOfAgenziaGestione, indexOfCodiceProdotto);
 		difference.CodiceProdotto = ExtractAndClean(line, indexOfCodiceProdotto, indexOfDataDecorrenza);
+		difference.IsParziale = line.Contains("RISCATTO PARZIALE");
 	}
 
 	private void AddCicsData(DifferenceDto difference, string line)

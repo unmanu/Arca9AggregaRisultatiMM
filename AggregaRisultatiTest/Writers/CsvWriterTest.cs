@@ -83,9 +83,11 @@ public class CsvWriterTest
 				Categoria = "11",
 				NumeroCollettiva = "0",
 				NumeroPolizza = "123456789",
+				Errore = "errore",
 				ErroreCics = @"errore cics
 errore seconda riga",
 				ErroreAlbedino = "errore albedino",
+				IsParziale = false,
 				ImportoNettoCics = "5.500",
 				ImportoLordoCics = "0.000",
 				ImposteLordoCics = "",
@@ -112,6 +114,8 @@ errore seconda riga",
 			firstRow.Categoria.Should().Be(differences[0].Categoria);
 			firstRow.NumeroCollettiva.Should().Be(differences[0].NumeroCollettiva);
 			firstRow.NumeroPolizza.Should().Be(differences[0].NumeroPolizza);
+			firstRow.Errore.Should().Be(differences[0].Errore);
+			firstRow.TipoRiscatto.Should().Be("TOTALE");
 			firstRow.ErroreCics.Should().Be(differences[0].ErroreCics);
 			firstRow.ErroreAlbedino.Should().Be(differences[0].ErroreAlbedino);
 			firstRow.AgenziaGestione.Should().Be(differences[0].AgenziaGestione);

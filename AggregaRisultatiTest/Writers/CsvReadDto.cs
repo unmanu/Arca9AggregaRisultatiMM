@@ -17,9 +17,9 @@ public class CsvReadDto
 	[Index(5)]
 	public string? NumeroPolizza { get; set; }
 	[Index(6)]
-	public string? ErroreCics { get; set; }
+	public string? Errore { get; set; }
 	[Index(7)]
-	public string? ErroreAlbedino { get; set; }
+	public string? TipoRiscatto { get; set; }
 	[Index(8)]
 	public string? ImportoNettoCics { get; set; }
 	[Index(9)]
@@ -32,4 +32,8 @@ public class CsvReadDto
 	public string? ImportoLordoAlbedino { get; set; }
 	[Index(13)]
 	public string? ImposteLordoAlbedino { get; set; }
+	[Index(14)]
+	public string? ErroreCics { get; set; }
+	[Index(15)]
+	public string? ErroreAlbedino { get; set; }
 }

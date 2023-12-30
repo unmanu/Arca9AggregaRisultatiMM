@@ -4,7 +4,7 @@ namespace AggregaRisultati.Writers;
 
 public class Aggregator(DifferenceDto? difference)
 {
-	public const int NUMBER_OF_FIELDS = 14;
+	public const int NUMBER_OF_FIELDS = 16;
 	private DifferenceDto? _difference = difference;
 
 	public string Aggregate(int position, bool header)
@@ -21,16 +21,26 @@ public class Aggregator(DifferenceDto? difference)
 			3 => header ? "Categoria" : _difference?.Categoria ?? "",
 			4 => header ? "Numero Collettiva" : _difference?.NumeroCollettiva ?? "",
 			5 => header ? "Numero Polizza" : _difference?.NumeroPolizza ?? "",
-			6 => header ? "Errore Cics" : _difference?.ErroreCics ?? "",
-			7 => header ? "Errore Albedino" : _difference?.ErroreAlbedino ?? "",
+			6 => header ? "Errore" : _difference?.Errore ?? "",
+			7 => header ? "Tipo Riscatto" : TipoRiscatto(),
 			8 => header ? "Importo Netto\r\nCics" : _difference?.ImportoNettoCics ?? "",
 			9 => header ? "Importo Lordo\r\nCics" : _difference?.ImportoLordoCics ?? "",
 			10 => header ? "Imposte Lordo\r\nCics" : _difference?.ImposteLordoCics ?? "",
 			11 => header ? "Importo Netto\r\nAlbedino" : _difference?.ImportoNettoAlbedino ?? "",
 			12 => header ? "Importo Lordo\r\nAlbedino" : _difference?.ImportoLordoAlbedino ?? "",
 			13 => header ? "Imposte Lordo\r\nAlbedino" : _difference?.ImposteLordoAlbedino ?? "",
+			14 => header ? "Errore Cics" : _difference?.ErroreCics ?? "",
+			15 => header ? "Errore Albedino" : _difference?.ErroreAlbedino ?? "",
 			_ => "",
 		};
 	}
 
+	private string TipoRiscatto()
+	{
+		if (_difference == null)
+		{
+			return "";
+		}
+		return _difference.IsParziale ? "PARZIALE" : "TOTALE";
+	}
 }
