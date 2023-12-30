@@ -23,6 +23,24 @@ public class InputParserTest
 		input.Should().NotBeNull();
 		input.Directory.ToString().Should().Be(directoryPath);
 		input.DifferencesFile.Name.Should().Be(InputParser.DifferencesFileName);
+		input.InputFile.Should().NotBeNull();
+		input.InputFile!.Name.Should().Be(InputParser.InputFileName);
+		input.TimesFile.Should().NotBeNull();
+		input.TimesFile!.Name.Should().Be(InputParser.TimesFileName);
+	}
+
+	[Fact]
+	public void Parse_InputOptionalFilesNotExist_DoesNotThrowException()
+	{
+		string directoryPath = Path.Combine("Resources", "WithoutOptionalFiles");
+
+		Input input = _parser.Parse([directoryPath]);
+
+		input.Should().NotBeNull();
+		input.Directory.ToString().Should().Be(directoryPath);
+		input.DifferencesFile.Name.Should().Be(InputParser.DifferencesFileName);
+		input.InputFile.Should().BeNull();
+		input.TimesFile.Should().BeNull();
 	}
 
 	[Fact]

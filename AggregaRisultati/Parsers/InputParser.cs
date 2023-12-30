@@ -7,13 +7,17 @@ public class InputParser
 	public const string FolderNotFound = "Folder {0} not found";
 	public const string DifferencesFileNotFound = "Differences file not found in folder {0}";
 	public const string DifferencesFileName = "polizze-riscattabili-con-differenze.txt";
+	public const string InputFileName = "polizze-riscattabili-input.txt";
+	public const string TimesFileName = "polizze-riscattabili-tempi-albedino.txt";
 
 	public Input Parse(string[] args)
 	{
 		string folderPath = GetFolderPathOrDefaultToCurrentDirectory(args);
 		DirectoryInfo directory = GetFolderIfExists(folderPath);
 		FileInfo differencesFile = FindDifferencesFileIfExists(folderPath, directory);
-		return new(directory, differencesFile);
+		FileInfo? inputFile = directory.GetFiles().FirstOrDefault(x => x.Name == InputFileName);
+		FileInfo? timesFile = directory.GetFiles().FirstOrDefault(x => x.Name == TimesFileName);
+		return new(directory, differencesFile, inputFile, timesFile);
 	}
 
 	private static string GetFolderPathOrDefaultToCurrentDirectory(string[] args)
@@ -34,11 +38,11 @@ public class InputParser
 
 	private static FileInfo FindDifferencesFileIfExists(string folderPath, DirectoryInfo directory)
 	{
-		FileInfo? differencesFile = directory.GetFiles().FirstOrDefault(x => x.Name == DifferencesFileName);
-		if (differencesFile == null || !differencesFile.Exists)
+		FileInfo? file = directory.GetFiles().FirstOrDefault(x => x.Name == DifferencesFileName);
+		if (file == null || !file.Exists)
 		{
 			throw new InputValidationException(string.Format(DifferencesFileNotFound, folderPath));
 		}
-		return differencesFile;
+		return file;
 	}
 }
