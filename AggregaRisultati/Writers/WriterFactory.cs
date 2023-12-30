@@ -4,6 +4,6 @@ public class WriterFactory
 {
 	public static IWriter CreateWriter()
 	{
-		return null;
+		return new CsvWriter();
 	}
 }
