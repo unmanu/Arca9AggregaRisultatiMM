@@ -1,0 +1,6 @@
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337262,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+DIFFERENZA / POLIZZA CON DIFFERENZE RISCATTO TOTALE : PolizzaRiscattabile{numeroRiga=83, codiceSocieta='341', categoria='11', numeroCollettiva='0', numeroPolizza='1337262', agenziaGestione='001', codiceProdotto='961', dataDecorrenza='2022-12-16', riscattabileParzialmente=true, convenzione='001961'}
+---------------------------------------------------------------------------------------------
+CICS     : importoNetto=0.000, importoLordo=, imposteLordo=0.000
+CICS ERROR: E0637 - SUL CONTRATTO ESISTONO ORDINI PENDENTI: VEDERE MENU REGISTRO ORDINI
+ALBEDINO : importoNetto=18970.680, importoLordo=18970.680, imposteLordo=0.000o=26677.790, importoLordo=26677.790, imposteLordo=0.000

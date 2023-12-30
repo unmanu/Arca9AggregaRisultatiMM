@@ -1,0 +1,11 @@
+DIFFERENZA / POLIZZA NON CONFRONTATA PER ERRORI: PolizzaRiscattabile{numeroRiga=26153, codiceSocieta='341', categoria='11', numeroCollettiva='0', numeroPolizza='895306', agenziaGestione='209', codiceProdotto='761', dataDecorrenza='2016-03-18', riscattabileParzialmente=true, convenzione='212761'}
+--------------------------------------------------------------------------------------
+com.ibm.connector2.cics.CICSTxnAbendException: CTG9638E Transaction Abend occurred in CICS. Abend Code=: AZI6, error code: AZI6
+	at com.ibm.connector2.cics.ECIManagedConnection.checkReturnCode(Unknown Source)
+	at com.ibm.connector2.cics.ECIManagedConnection.call(Unknown Source)
+	at com.ibm.connector2.cics.ECIConnection.call(Unknown Source)
+	at com.ibm.connector2.cics.ECIInteraction.execute(Unknown Source)
+	at com.arca.ecci.runtime.CicsProgramCaller.execute(CicsProgramCaller.java:104)
+	at com.arca.riscatto.riv04.CalcoloImportiRiscattoParziale.calcola(CalcoloImportiRiscattoParziale.java:28)
+	at com.arca.riscatto.riv04.RegressioneTestExecuter.run(RegressioneTestExecuter.java:51)
+	at java.lang.Thread.run(Unknown Source)

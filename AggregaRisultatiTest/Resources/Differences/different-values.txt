@@ -1,0 +1,5 @@
+albedinoRequest= {"polizzaKey":{"numeroPolizza":890284,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+DIFFERENZA / POLIZZA CON DIFFERENZE RISCATTO TOTALE : PolizzaRiscattabile{numeroRiga=27463, codiceSocieta='341', categoria='11', numeroCollettiva='0', numeroPolizza='890284', agenziaGestione='145', codiceProdotto='750', dataDecorrenza='2016-03-03', riscattabileParzialmente=true, convenzione='145750'}
+---------------------------------------------------------------------------------------------
+CICS     : importoNetto=26677.790, importoLordo=26677.780, imposteLordo=0.000
+ALBEDINO : importoNetto=26677.790, importoLordo=26677.790, imposteLordo=0.000

@@ -1,0 +1,6 @@
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1110856,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":761.502}
+DIFFERENZA / POLIZZA CON DIFFERENZE RISCATTO PARZIALE : PolizzaRiscattabile{numeroRiga=9853, codiceSocieta='341', categoria='11', numeroCollettiva='0', numeroPolizza='1110856', agenziaGestione='700', codiceProdotto='919', dataDecorrenza='2019-12-13', riscattabileParzialmente=true, convenzione='700919'}
+---------------------------------------------------------------------------------------------
+CICS     : importoNettoParziale=751.152, importoLordoParziale=761.502, imposteLordoParziale=10.350
+ALBEDINO : importoNetto=, importoLordo=, imposteLordo=
+ALBEDINO ERROR: Errore Albedino
