@@ -26,7 +26,7 @@ public class DifferencesFileParserTest
 	[Fact]
 	public void Parse_FileWithMultipleDifferences_ReturnsMultipleDifferences()
 	{
-		FileInfo differencesFile = new(Path.Combine("Resources", "MultilpleDifferences", InputParser.DifferencesFileName));
+		FileInfo differencesFile = new(Path.Combine("Resources", "MultipleDifferences", InputParser.DifferencesFileName));
 
 		List<DifferenceDto> differences = _parser.Parse(differencesFile);
 

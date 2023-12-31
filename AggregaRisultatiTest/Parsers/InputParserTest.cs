@@ -23,8 +23,8 @@ public class InputParserTest
 		input.Should().NotBeNull();
 		input.Directory.ToString().Should().Be(directoryPath);
 		input.DifferencesFile.Name.Should().Be(InputParser.DifferencesFileName);
-		input.InputFile.Should().NotBeNull();
-		input.InputFile!.Name.Should().Be(InputParser.InputFileName);
+		input.PolizzeInputFile.Should().NotBeNull();
+		input.PolizzeInputFile!.Name.Should().Be(InputParser.InputFileName);
 		input.TimesFile.Should().NotBeNull();
 		input.TimesFile!.Name.Should().Be(InputParser.TimesFileName);
 	}
@@ -39,7 +39,7 @@ public class InputParserTest
 		input.Should().NotBeNull();
 		input.Directory.ToString().Should().Be(directoryPath);
 		input.DifferencesFile.Name.Should().Be(InputParser.DifferencesFileName);
-		input.InputFile.Should().BeNull();
+		input.PolizzeInputFile.Should().BeNull();
 		input.TimesFile.Should().BeNull();
 	}
 

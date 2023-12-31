@@ -35,20 +35,9 @@
   </ItemGroup>
   
   <ItemGroup>
-    <None Remove="Resources\Differences\albedino-error-exception.txt" />
-    <None Remove="Resources\Differences\albedino-error.txt" />
-    <None Remove="Resources\Differences\cics-albedino-error-exception.txt" />
-    <None Remove="Resources\Differences\cics-error-exception.txt" />
-    <None Remove="Resources\Differences\cics-error.txt" />
-    <None Remove="Resources\Differences\cics-ko.txt" />
-    <None Remove="Resources\Differences\different-values.txt" />
-    <None Remove="Resources\EmptyDifferencesFile\polizze-riscattabili-input.txt" />
-    <None Remove="Resources\EmptyDifferencesFile\polizze-riscattabili-tempi-albedino.txt" />
-    <None Remove="Resources\WithoutOptionalFiles\polizze-riscattabili-con-differenze.txt" />
-    <None Remove="Resources\SingleEndsWithoutBlankLines\polizze-riscattabili-con-differenze.txt" />
-    <None Remove="Resources\MultilpleDifferences\polizze-riscattabili-con-differenze.txt" />
+    <None Remove="Resources\MultipleDifferences\polizze-riscattabili-input.txt" />
   </ItemGroup>
-  
+    
   <ItemGroup>
     <Content Update="Resources\WithoutOptionalFiles\polizze-riscattabili-con-differenze.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
