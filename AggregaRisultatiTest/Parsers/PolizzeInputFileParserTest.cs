@@ -42,6 +42,8 @@ public class PolizzeInputFileParserTest
 		polizze.Should().NotBeNull().And.NotBeEmpty();
 		polizze.Count.Should().Be(1);
 		PolizzaInputDto firstPolizza = polizze[0];
+		firstPolizza.NumeroRiga.Should().Be("1");
+		firstPolizza.Input.Should().Be("073   ;961       ;341;11;0;1337523;2022-12-19;NO0102                        ;073961");
 		firstPolizza.AgenziaGestione.Should().Be("073");
 		firstPolizza.CodiceProdotto.Should().Be("961");
 		firstPolizza.CodiceSocieta.Should().Be("341");

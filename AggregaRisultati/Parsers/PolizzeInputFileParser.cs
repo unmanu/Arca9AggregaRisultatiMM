@@ -35,6 +35,7 @@ public class PolizzeInputFileParser
 		PolizzaInputDto polizza = new();
 		string[] splits = line.Split(";");
 		polizza.NumeroRiga = rowNumber.ToString();
+		polizza.Input = line;
 		polizza.AgenziaGestione = TrimIfPresent(splits, 0);
 		polizza.CodiceProdotto = TrimIfPresent(splits, 1);
 		polizza.CodiceSocieta = TrimIfPresent(splits, 2);

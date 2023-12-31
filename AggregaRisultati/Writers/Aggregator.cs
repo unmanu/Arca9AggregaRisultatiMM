@@ -2,7 +2,7 @@
 
 namespace AggregaRisultati.Writers;
 
-public class Aggregator(DifferenceDto? difference)
+public class Aggregator(DifferenceDto? difference = null, PolizzaInputDto? polizza = null, TimesDto? timesTotale = null, TimesDto? timesParziale = null)
 {
 	public const int NUMBER_OF_FIELDS = 16;
 	private DifferenceDto? _difference = difference;

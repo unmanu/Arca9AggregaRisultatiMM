@@ -26,7 +26,7 @@ public class CsvWriterTest
 	[Fact]
 	public void Write_NoDifference_ReturnsPathToExcelWithOnlyHeader()
 	{
-		string outputFilePath = _writer.Write(_directoryPath, []);
+		string outputFilePath = _writer.Write(_directoryPath, [], [], []);
 
 		outputFilePath.Should().NotBeNull().And.NotBeEmpty();
 		File.Exists(outputFilePath).Should().BeTrue();
@@ -57,7 +57,7 @@ public class CsvWriterTest
 			}
 		];
 
-		string outputFilePath = _writer.Write(_directoryPath, differences);
+		string outputFilePath = _writer.Write(_directoryPath, differences, [], []);
 
 		outputFilePath.Should().NotBeNull().And.NotBeEmpty();
 		File.Exists(outputFilePath).Should().BeTrue();
@@ -97,7 +97,7 @@ errore seconda riga",
 			}
 		];
 
-		string outputFilePath = _writer.Write(_directoryPath, differences);
+		string outputFilePath = _writer.Write(_directoryPath, differences, [], []);
 
 		outputFilePath.Should().NotBeNull().And.NotBeEmpty();
 		File.Exists(outputFilePath).Should().BeTrue();

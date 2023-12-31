@@ -3,6 +3,7 @@
 public class PolizzaInputDto
 {
 	public string? NumeroRiga { get; set; }
+	public string? Input { get; set; }
 	public string? AgenziaGestione { get; set; }
 	public string? CodiceProdotto { get; set; }
 	public string? CodiceSocieta { get; set; }
