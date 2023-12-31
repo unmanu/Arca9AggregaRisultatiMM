@@ -33,8 +33,8 @@ public class CsvWriter : IWriter
 			count++;
 			differences.TryGetValue(key, out DifferenceDto? difference);
 			polizzeInput.TryGetValue(key, out PolizzaInputDto? polizza);
-			times.TryGetValue(key + "_true", out TimesDto? timesTotale);
-			times.TryGetValue(key + "_false", out TimesDto? timesParziale);
+			times.TryGetValue(key + "_True", out TimesDto? timesTotale);
+			times.TryGetValue(key + "_False", out TimesDto? timesParziale);
 
 			Aggregator aggregator = new(difference, polizza, timesTotale, timesParziale);
 			WriteLine(writer, aggregator, false);
