@@ -1,0 +1,12 @@
+﻿albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:52.597	finito: 2023-12-25 00:09:53.050	tempo impiegato: 00:00.453	millis: 453
+ 
+	
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":548580.508}
+iniziato: 2023-12-25 00:09:53.159	finito: 2023-12-25 00:09:53.347	tempo impiegato: 00:00.188	millis: 188
+
+
+			
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:53.519	finito: 2023-12-25 00:09:53.753	tempo impiegato: 00:00.234	millis: 234

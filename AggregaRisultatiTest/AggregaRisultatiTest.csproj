@@ -36,6 +36,13 @@
   
   <ItemGroup>
     <None Remove="Resources\MultipleDifferences\polizze-riscattabili-input.txt" />
+    <None Remove="Resources\MultipleDifferences\polizze-riscattabili-tempi-albedino.txt" />
+    <None Remove="Resources\PolizzeInput\multiple-lines-with-empty-lines.txt" />
+    <None Remove="Resources\SingleEndsWithoutBlankLines\polizze-riscattabili-tempi-albedino.txt" />
+    <None Remove="Resources\Times\numero-linee-errato.txt" />
+    <None Remove="Resources\Times\parziale.txt" />
+    <None Remove="Resources\Times\totale.txt" />
+    <None Remove="Resources\Times\unparseable.txt" />
   </ItemGroup>
     
   <ItemGroup>

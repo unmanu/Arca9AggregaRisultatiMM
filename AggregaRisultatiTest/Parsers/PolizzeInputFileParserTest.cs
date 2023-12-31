@@ -24,7 +24,7 @@ public class PolizzeInputFileParserTest
 	[Fact]
 	public void Parse_MultipleLinesWithEmptyLines_ReturnsListWithoutEmptyLines()
 	{
-		FileInfo file = new(Path.Combine("Resources", "EmptyDifferencesFile", InputParser.InputFileName));
+		FileInfo file = new(Path.Combine("Resources", "PolizzeInput", "multiple-lines-with-empty-lines.txt"));
 
 		List<PolizzaInputDto> polizze = _parser.Parse(file);
 
@@ -35,7 +35,7 @@ public class PolizzeInputFileParserTest
 	[Fact]
 	public void Parse_SingleLine_ReturnsPolizzaWithSpecificValues()
 	{
-		FileInfo file = new(Path.Combine("Resources", "MultipleDifferences", InputParser.InputFileName));
+		FileInfo file = new(Path.Combine("Resources", "PolizzeInput", "single-line.txt"));
 
 		List<PolizzaInputDto> polizze = _parser.Parse(file);
 
