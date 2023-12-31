@@ -35,6 +35,12 @@
   </ItemGroup>
   
   <ItemGroup>
+    <None Remove="Resources\Integration\KindaBig\polizze-riscattabili-con-differenze.txt" />
+    <None Remove="Resources\Integration\KindaBig\polizze-riscattabili-input.txt" />
+    <None Remove="Resources\Integration\KindaBig\polizze-riscattabili-tempi-albedino.txt" />
+    <None Remove="Resources\Integration\KindaSmall\polizze-riscattabili-con-differenze.txt" />
+    <None Remove="Resources\Integration\KindaSmall\polizze-riscattabili-input.txt" />
+    <None Remove="Resources\Integration\KindaSmall\polizze-riscattabili-tempi-albedino.txt" />
     <None Remove="Resources\MultipleDifferences\polizze-riscattabili-input.txt" />
     <None Remove="Resources\MultipleDifferences\polizze-riscattabili-tempi-albedino.txt" />
     <None Remove="Resources\PolizzeInput\multiple-lines-with-empty-lines.txt" />
@@ -49,10 +55,6 @@
     <Content Update="Resources\WithoutOptionalFiles\polizze-riscattabili-con-differenze.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-  </ItemGroup>
-    
-  <ItemGroup>
-    <Folder Include="Resources\Integration\" />
   </ItemGroup>
 
 </Project>

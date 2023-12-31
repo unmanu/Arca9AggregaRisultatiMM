@@ -10,7 +10,7 @@ public class ParserAggregatorIntegrationTest
 
 	public ParserAggregatorIntegrationTest()
 	{
-		_directoryPath = new(Path.Combine("Resources", "Integration"));
+		_directoryPath = new(Path.Combine("Resources", "Integration", "Small"));
 		foreach (var file in _directoryPath.GetFiles())
 		{
 			if (file.Name != InputParser.DifferencesFileName && file.Name != InputParser.InputFileName && file.Name != InputParser.TimesFileName)

@@ -1,0 +1,816 @@
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:52.597	finito: 2023-12-25 00:09:53.050	tempo impiegato: 00:00.453	millis: 453
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":548580.508}
+iniziato: 2023-12-25 00:09:53.159	finito: 2023-12-25 00:09:53.347	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:53.519	finito: 2023-12-25 00:09:53.753	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":548580.508}
+iniziato: 2023-12-25 00:09:53.769	finito: 2023-12-25 00:09:53.956	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337534,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:54.378	finito: 2023-12-25 00:09:54.581	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337534,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26727.029}
+iniziato: 2023-12-25 00:09:54.597	finito: 2023-12-25 00:09:54.787	tempo impiegato: 00:00.190	millis: 190
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337533,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:55.006	finito: 2023-12-25 00:09:55.227	tempo impiegato: 00:00.221	millis: 221
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337533,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":376474.672}
+iniziato: 2023-12-25 00:09:55.383	finito: 2023-12-25 00:09:55.605	tempo impiegato: 00:00.222	millis: 222
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337532,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:55.824	finito: 2023-12-25 00:09:56.061	tempo impiegato: 00:00.237	millis: 237
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337532,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":686191.604}
+iniziato: 2023-12-25 00:09:56.217	finito: 2023-12-25 00:09:56.389	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337531,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:56.593	finito: 2023-12-25 00:09:56.811	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337531,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":685768.496}
+iniziato: 2023-12-25 00:09:56.967	finito: 2023-12-25 00:09:57.171	tempo impiegato: 00:00.204	millis: 204
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337530,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:57.467	finito: 2023-12-25 00:09:57.717	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337530,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33417.146}
+iniziato: 2023-12-25 00:09:57.874	finito: 2023-12-25 00:09:58.061	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337529,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:58.249	finito: 2023-12-25 00:09:58.452	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337529,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6622.658}
+iniziato: 2023-12-25 00:09:58.592	finito: 2023-12-25 00:09:58.780	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337528,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:09:58.967	finito: 2023-12-25 00:10:00.718	tempo impiegato: 00:01.751	millis: 1751
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337528,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9950.633}
+iniziato: 2023-12-25 00:10:00.874	finito: 2023-12-25 00:10:01.061	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337527,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:01.249	finito: 2023-12-25 00:10:01.483	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337527,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33417.146}
+iniziato: 2023-12-25 00:10:01.639	finito: 2023-12-25 00:10:01.811	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337526,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:02.014	finito: 2023-12-25 00:10:02.280	tempo impiegato: 00:00.266	millis: 266
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337526,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9950.633}
+iniziato: 2023-12-25 00:10:02.436	finito: 2023-12-25 00:10:02.608	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337525,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:02.780	finito: 2023-12-25 00:10:02.983	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337525,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":101459.701}
+iniziato: 2023-12-25 00:10:03.124	finito: 2023-12-25 00:10:03.343	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337524,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:03.608	finito: 2023-12-25 00:10:03.811	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337524,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":101087.686}
+iniziato: 2023-12-25 00:10:03.968	finito: 2023-12-25 00:10:04.139	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337523,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:04.311	finito: 2023-12-25 00:10:04.514	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337523,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6622.658}
+iniziato: 2023-12-25 00:10:04.655	finito: 2023-12-25 00:10:04.843	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337522,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:05.030	finito: 2023-12-25 00:10:05.233	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337522,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6622.658}
+iniziato: 2023-12-25 00:10:05.374	finito: 2023-12-25 00:10:05.546	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337497,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:05.827	finito: 2023-12-25 00:10:06.046	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337497,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67605.986}
+iniziato: 2023-12-25 00:10:06.186	finito: 2023-12-25 00:10:06.405	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337496,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:06.561	finito: 2023-12-25 00:10:06.780	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337496,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33417.146}
+iniziato: 2023-12-25 00:10:06.921	finito: 2023-12-25 00:10:07.124	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337471,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:07.405	finito: 2023-12-25 00:10:07.671	tempo impiegato: 00:00.266	millis: 266
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337471,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19934.551}
+iniziato: 2023-12-25 00:10:07.827	finito: 2023-12-25 00:10:08.030	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337470,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:08.178	finito: 2023-12-25 00:10:08.376	tempo impiegato: 00:00.198	millis: 198
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337470,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3401.188}
+iniziato: 2023-12-25 00:10:08.407	finito: 2023-12-25 00:10:08.610	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337469,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:08.751	finito: 2023-12-25 00:10:08.985	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337469,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":68322.961}
+iniziato: 2023-12-25 00:10:09.017	finito: 2023-12-25 00:10:09.173	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337468,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:09.329	finito: 2023-12-25 00:10:09.564	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337468,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":202919.409}
+iniziato: 2023-12-25 00:10:09.579	finito: 2023-12-25 00:10:09.767	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337467,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:09.939	finito: 2023-12-25 00:10:10.157	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337467,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6789.062}
+iniziato: 2023-12-25 00:10:10.173	finito: 2023-12-25 00:10:10.348	tempo impiegato: 00:00.175	millis: 175
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337466,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:10.505	finito: 2023-12-25 00:10:10.724	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337466,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":20367.186}
+iniziato: 2023-12-25 00:10:10.739	finito: 2023-12-25 00:10:10.958	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337465,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:11.099	finito: 2023-12-25 00:10:11.302	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337465,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9950.633}
+iniziato: 2023-12-25 00:10:11.320	finito: 2023-12-25 00:10:11.584	tempo impiegato: 00:00.264	millis: 264
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337464,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:11.725	finito: 2023-12-25 00:10:11.975	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337464,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3394.531}
+iniziato: 2023-12-25 00:10:11.991	finito: 2023-12-25 00:10:13.634	tempo impiegato: 00:01.643	millis: 1643
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337463,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:13.806	finito: 2023-12-25 00:10:13.993	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337463,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6622.658}
+iniziato: 2023-12-25 00:10:14.009	finito: 2023-12-25 00:10:14.181	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337462,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:14.322	finito: 2023-12-25 00:10:14.572	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337462,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":68282.382}
+iniziato: 2023-12-25 00:10:14.587	finito: 2023-12-25 00:10:14.759	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337461,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:14.900	finito: 2023-12-25 00:10:15.150	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337461,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13278.608}
+iniziato: 2023-12-25 00:10:15.165	finito: 2023-12-25 00:10:15.337	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337460,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:15.525	finito: 2023-12-25 00:10:15.759	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337460,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16646.511}
+iniziato: 2023-12-25 00:10:16.261	finito: 2023-12-25 00:10:16.435	tempo impiegato: 00:00.174	millis: 174
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337459,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:16.576	finito: 2023-12-25 00:10:16.826	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337459,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19974.486}
+iniziato: 2023-12-25 00:10:17.029	finito: 2023-12-25 00:10:17.201	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337458,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:17.373	finito: 2023-12-25 00:10:17.639	tempo impiegato: 00:00.266	millis: 266
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337458,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.690}
+iniziato: 2023-12-25 00:10:17.780	finito: 2023-12-25 00:10:17.967	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337457,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:18.092	finito: 2023-12-25 00:10:18.295	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337457,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":40107.277}
+iniziato: 2023-12-25 00:10:18.608	finito: 2023-12-25 00:10:18.780	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337456,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:18.920	finito: 2023-12-25 00:10:19.155	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337456,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":20367.186}
+iniziato: 2023-12-25 00:10:19.342	finito: 2023-12-25 00:10:19.545	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337455,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:19.670	finito: 2023-12-25 00:10:19.873	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337455,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9950.633}
+iniziato: 2023-12-25 00:10:20.045	finito: 2023-12-25 00:10:20.498	tempo impiegato: 00:00.453	millis: 453
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337454,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:20.639	finito: 2023-12-25 00:10:21.030	tempo impiegato: 00:00.391	millis: 391
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337454,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":68282.382}
+iniziato: 2023-12-25 00:10:21.045	finito: 2023-12-25 00:10:21.202	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337453,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:21.358	finito: 2023-12-25 00:10:21.577	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337453,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19967.829}
+iniziato: 2023-12-25 00:10:21.592	finito: 2023-12-25 00:10:21.748	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337452,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:21.889	finito: 2023-12-25 00:10:22.123	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337452,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9950.633}
+iniziato: 2023-12-25 00:10:22.438	finito: 2023-12-25 00:10:22.657	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337451,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:22.860	finito: 2023-12-25 00:10:23.157	tempo impiegato: 00:00.297	millis: 297
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337451,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33960.388}
+iniziato: 2023-12-25 00:10:23.188	finito: 2023-12-25 00:10:23.361	tempo impiegato: 00:00.173	millis: 173
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337450,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:23.548	finito: 2023-12-25 00:10:23.754	tempo impiegato: 00:00.206	millis: 206
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337450,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19934.551}
+iniziato: 2023-12-25 00:10:23.770	finito: 2023-12-25 00:10:23.910	tempo impiegato: 00:00.140	millis: 140
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337449,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:24.082	finito: 2023-12-25 00:10:24.285	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337449,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6622.658}
+iniziato: 2023-12-25 00:10:24.332	finito: 2023-12-25 00:10:24.473	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337398,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:51.050	finito: 2023-12-25 00:10:58.836	tempo impiegato: 00:07.786	millis: 7786
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337398,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:10:58.852	finito: 2023-12-25 00:10:59.008	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337389,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:59.224	finito: 2023-12-25 00:10:59.448	tempo impiegato: 00:00.224	millis: 224
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337389,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:10:59.463	finito: 2023-12-25 00:10:59.666	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337388,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:10:59.854	finito: 2023-12-25 00:11:00.104	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337388,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:00.120	finito: 2023-12-25 00:11:00.293	tempo impiegato: 00:00.173	millis: 173
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337387,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:00.465	finito: 2023-12-25 00:11:00.730	tempo impiegato: 00:00.265	millis: 265
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337387,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:00.886	finito: 2023-12-25 00:11:01.058	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337386,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:01.246	finito: 2023-12-25 00:11:01.449	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337386,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:01.605	finito: 2023-12-25 00:11:01.808	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337385,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:01.980	finito: 2023-12-25 00:11:02.230	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337385,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":118345.514}
+iniziato: 2023-12-25 00:11:02.387	finito: 2023-12-25 00:11:02.558	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337383,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:02.762	finito: 2023-12-25 00:11:02.966	tempo impiegato: 00:00.204	millis: 204
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337383,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:03.122	finito: 2023-12-25 00:11:03.294	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337382,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:03.451	finito: 2023-12-25 00:11:03.701	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337382,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":87262.476}
+iniziato: 2023-12-25 00:11:03.841	finito: 2023-12-25 00:11:03.997	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337381,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:04.185	finito: 2023-12-25 00:11:04.419	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337381,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:04.576	finito: 2023-12-25 00:11:04.747	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337380,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:04.919	finito: 2023-12-25 00:11:05.138	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337380,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16640.946}
+iniziato: 2023-12-25 00:11:05.294	finito: 2023-12-25 00:11:05.451	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337379,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:05.607	finito: 2023-12-25 00:11:05.841	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337379,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:05.982	finito: 2023-12-25 00:11:06.185	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337378,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:06.388	finito: 2023-12-25 00:11:06.591	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337378,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":81140.577}
+iniziato: 2023-12-25 00:11:06.607	finito: 2023-12-25 00:11:06.810	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337377,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:06.982	finito: 2023-12-25 00:11:07.201	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337377,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26795.909}
+iniziato: 2023-12-25 00:11:07.341	finito: 2023-12-25 00:11:07.529	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337376,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:07.732	finito: 2023-12-25 00:11:07.982	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337376,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:08.123	finito: 2023-12-25 00:11:08.310	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337375,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:08.466	finito: 2023-12-25 00:11:08.718	tempo impiegato: 00:00.252	millis: 252
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337375,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:08.859	finito: 2023-12-25 00:11:09.031	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337374,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:09.203	finito: 2023-12-25 00:11:09.406	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337374,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13312.761}
+iniziato: 2023-12-25 00:11:09.562	finito: 2023-12-25 00:11:11.203	tempo impiegato: 00:01.641	millis: 1641
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337373,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:11.375	finito: 2023-12-25 00:11:11.609	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337373,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:11.750	finito: 2023-12-25 00:11:11.906	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337372,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:12.109	finito: 2023-12-25 00:11:12.328	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337372,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16607.668}
+iniziato: 2023-12-25 00:11:12.484	finito: 2023-12-25 00:11:12.672	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337371,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:12.812	finito: 2023-12-25 00:11:12.984	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337371,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:13.125	finito: 2023-12-25 00:11:13.312	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337323,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:13.547	finito: 2023-12-25 00:11:13.751	tempo impiegato: 00:00.204	millis: 204
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337323,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:13.752	finito: 2023-12-25 00:11:13.924	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337322,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:14.065	finito: 2023-12-25 00:11:14.268	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337322,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:14.315	finito: 2023-12-25 00:11:14.533	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337321,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:14.690	finito: 2023-12-25 00:11:15.003	tempo impiegato: 00:00.313	millis: 313
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337321,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:15.034	finito: 2023-12-25 00:11:15.190	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337320,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:15.362	finito: 2023-12-25 00:11:15.612	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337320,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26728.996}
+iniziato: 2023-12-25 00:11:15.612	finito: 2023-12-25 00:11:15.786	tempo impiegato: 00:00.174	millis: 174
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337281,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:15.958	finito: 2023-12-25 00:11:16.180	tempo impiegato: 00:00.222	millis: 222
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337281,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:16.273	finito: 2023-12-25 00:11:16.430	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337280,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:16.570	finito: 2023-12-25 00:11:16.773	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337280,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67645.333}
+iniziato: 2023-12-25 00:11:16.992	finito: 2023-12-25 00:11:17.212	tempo impiegato: 00:00.220	millis: 220
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337279,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:17.337	finito: 2023-12-25 00:11:17.556	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337279,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:17.774	finito: 2023-12-25 00:11:17.962	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337278,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:18.087	finito: 2023-12-25 00:11:18.337	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337278,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:18.462	finito: 2023-12-25 00:11:18.634	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337277,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:18.806	finito: 2023-12-25 00:11:19.040	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337277,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:19.199	finito: 2023-12-25 00:11:19.356	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337276,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:19.496	finito: 2023-12-25 00:11:19.746	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337276,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":202902.175}
+iniziato: 2023-12-25 00:11:19.949	finito: 2023-12-25 00:11:20.184	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337275,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:20.355	finito: 2023-12-25 00:11:20.574	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337275,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:20.621	finito: 2023-12-25 00:11:20.825	tempo impiegato: 00:00.204	millis: 204
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337274,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:20.981	finito: 2023-12-25 00:11:21.184	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337274,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19526.493}
+iniziato: 2023-12-25 00:11:21.403	finito: 2023-12-25 00:11:21.575	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337273,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:21.731	finito: 2023-12-25 00:11:21.996	tempo impiegato: 00:00.265	millis: 265
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337273,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:22.012	finito: 2023-12-25 00:11:23.622	tempo impiegato: 00:01.610	millis: 1610
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337272,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:23.793	finito: 2023-12-25 00:11:23.996	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337272,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19526.493}
+iniziato: 2023-12-25 00:11:24.012	finito: 2023-12-25 00:11:24.215	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337271,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:24.372	finito: 2023-12-25 00:11:24.606	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337271,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19935.853}
+iniziato: 2023-12-25 00:11:24.622	finito: 2023-12-25 00:11:24.793	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337270,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:24.934	finito: 2023-12-25 00:11:25.215	tempo impiegato: 00:00.281	millis: 281
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337270,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:25.231	finito: 2023-12-25 00:11:25.403	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337269,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:25.559	finito: 2023-12-25 00:11:25.778	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337269,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:26.403	finito: 2023-12-25 00:11:26.637	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337268,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:26.809	finito: 2023-12-25 00:11:27.043	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337268,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33453.070}
+iniziato: 2023-12-25 00:11:27.122	finito: 2023-12-25 00:11:27.293	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337267,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:27.418	finito: 2023-12-25 00:11:27.684	tempo impiegato: 00:00.266	millis: 266
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337267,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":40779.284}
+iniziato: 2023-12-25 00:11:27.825	finito: 2023-12-25 00:11:27.997	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337266,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:28.137	finito: 2023-12-25 00:11:28.325	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337266,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33419.610}
+iniziato: 2023-12-25 00:11:28.559	finito: 2023-12-25 00:11:28.762	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337265,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:28.934	finito: 2023-12-25 00:11:29.137	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337265,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16607.668}
+iniziato: 2023-12-25 00:11:29.153	finito: 2023-12-25 00:11:29.356	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337264,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:29.512	finito: 2023-12-25 00:11:29.715	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337264,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9951.291}
+iniziato: 2023-12-25 00:11:29.715	finito: 2023-12-25 00:11:29.952	tempo impiegato: 00:00.237	millis: 237
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337263,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:30.093	finito: 2023-12-25 00:11:30.281	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337263,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.476}
+iniziato: 2023-12-25 00:11:30.296	finito: 2023-12-25 00:11:30.468	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337262,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:30.515	finito: 2023-12-25 00:11:30.718	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337261,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:30.859	finito: 2023-12-25 00:11:31.030	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337261,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":11282.565}
+iniziato: 2023-12-25 00:11:31.593	finito: 2023-12-25 00:11:31.812	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337260,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:31.952	finito: 2023-12-25 00:11:32.140	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337260,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":30074.310}
+iniziato: 2023-12-25 00:11:32.359	finito: 2023-12-25 00:11:32.562	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337259,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:32.702	finito: 2023-12-25 00:11:32.921	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337259,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":46800.845}
+iniziato: 2023-12-25 00:11:33.109	finito: 2023-12-25 00:11:33.296	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337258,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:33.421	finito: 2023-12-25 00:11:33.671	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337258,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.476}
+iniziato: 2023-12-25 00:11:33.843	finito: 2023-12-25 00:11:34.015	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337257,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:34.189	finito: 2023-12-25 00:11:34.392	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337257,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":8620.017}
+iniziato: 2023-12-25 00:11:34.517	finito: 2023-12-25 00:11:36.159	tempo impiegato: 00:01.642	millis: 1642
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337256,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:36.315	finito: 2023-12-25 00:11:36.550	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337256,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":15942.031}
+iniziato: 2023-12-25 00:11:36.550	finito: 2023-12-25 00:11:36.722	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337255,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:36.878	finito: 2023-12-25 00:11:37.081	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337255,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:37.097	finito: 2023-12-25 00:11:37.269	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337254,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:37.394	finito: 2023-12-25 00:11:37.628	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337254,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16607.668}
+iniziato: 2023-12-25 00:11:37.644	finito: 2023-12-25 00:11:37.800	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337253,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:37.940	finito: 2023-12-25 00:11:38.175	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337253,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67645.333}
+iniziato: 2023-12-25 00:11:38.800	finito: 2023-12-25 00:11:38.987	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337252,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:39.112	finito: 2023-12-25 00:11:39.315	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337252,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":7954.373}
+iniziato: 2023-12-25 00:11:39.378	finito: 2023-12-25 00:11:39.550	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337251,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:39.690	finito: 2023-12-25 00:11:39.894	tempo impiegato: 00:00.204	millis: 204
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337251,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67611.509}
+iniziato: 2023-12-25 00:11:39.956	finito: 2023-12-25 00:11:40.128	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337250,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:40.269	finito: 2023-12-25 00:11:40.487	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337250,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":46800.845}
+iniziato: 2023-12-25 00:11:40.597	finito: 2023-12-25 00:11:40.769	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337249,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:40.909	finito: 2023-12-25 00:11:41.065	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337249,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:41.847	finito: 2023-12-25 00:11:42.019	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337248,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:42.144	finito: 2023-12-25 00:11:42.316	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337248,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:42.441	finito: 2023-12-25 00:11:42.628	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337247,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:42.753	finito: 2023-12-25 00:11:42.909	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337247,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":7954.373}
+iniziato: 2023-12-25 00:11:43.159	finito: 2023-12-25 00:11:43.300	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337246,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:43.409	finito: 2023-12-25 00:11:43.566	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337246,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26591.565}
+iniziato: 2023-12-25 00:11:43.941	finito: 2023-12-25 00:11:44.082	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337245,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:44.238	finito: 2023-12-25 00:11:44.410	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337245,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.476}
+iniziato: 2023-12-25 00:11:44.535	finito: 2023-12-25 00:11:44.676	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337244,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:44.848	finito: 2023-12-25 00:11:45.004	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337244,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:46.004	finito: 2023-12-25 00:11:46.176	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337243,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:46.332	finito: 2023-12-25 00:11:46.489	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337243,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:46.504	finito: 2023-12-25 00:11:46.662	tempo impiegato: 00:00.158	millis: 158
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337242,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:46.803	finito: 2023-12-25 00:11:46.975	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337242,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:46.991	finito: 2023-12-25 00:11:47.131	tempo impiegato: 00:00.140	millis: 140
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337241,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:47.303	finito: 2023-12-25 00:11:47.459	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337241,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13312.761}
+iniziato: 2023-12-25 00:11:47.475	finito: 2023-12-25 00:11:47.616	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337240,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:47.772	finito: 2023-12-25 00:11:47.975	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337240,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6789.503}
+iniziato: 2023-12-25 00:11:47.990	finito: 2023-12-25 00:11:49.726	tempo impiegato: 00:01.736	millis: 1736
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337239,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:49.898	finito: 2023-12-25 00:11:50.078	tempo impiegato: 00:00.180	millis: 180
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337239,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.476}
+iniziato: 2023-12-25 00:11:50.086	finito: 2023-12-25 00:11:50.227	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337238,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:50.352	finito: 2023-12-25 00:11:50.510	tempo impiegato: 00:00.158	millis: 158
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337238,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6623.092}
+iniziato: 2023-12-25 00:11:50.526	finito: 2023-12-25 00:11:50.713	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337237,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:50.838	finito: 2023-12-25 00:11:50.994	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337237,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3294.907}
+iniziato: 2023-12-25 00:11:51.322	finito: 2023-12-25 00:11:51.479	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337236,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:51.588	finito: 2023-12-25 00:11:51.760	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337236,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.476}
+iniziato: 2023-12-25 00:11:51.885	finito: 2023-12-25 00:11:52.026	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337235,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:52.151	finito: 2023-12-25 00:11:52.307	tempo impiegato: 00:00.156	millis: 156
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337235,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19935.853}
+iniziato: 2023-12-25 00:11:52.401	finito: 2023-12-25 00:11:52.573	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337234,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:52.697	finito: 2023-12-25 00:11:52.869	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337234,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6789.503}
+iniziato: 2023-12-25 00:11:52.947	finito: 2023-12-25 00:11:53.119	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336986,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:53.432	finito: 2023-12-25 00:11:53.682	tempo impiegato: 00:00.250	millis: 250
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336986,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67613.357}
+iniziato: 2023-12-25 00:11:54.135	finito: 2023-12-25 00:11:54.323	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336982,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:54.494	finito: 2023-12-25 00:11:54.683	tempo impiegato: 00:00.189	millis: 189
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336982,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33420.436}
+iniziato: 2023-12-25 00:11:54.714	finito: 2023-12-25 00:11:54.902	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336981,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:55.042	finito: 2023-12-25 00:11:55.261	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336981,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26729.654}
+iniziato: 2023-12-25 00:11:55.308	finito: 2023-12-25 00:11:55.480	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336980,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:55.621	finito: 2023-12-25 00:11:55.842	tempo impiegato: 00:00.221	millis: 221
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336980,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33420.436}
+iniziato: 2023-12-25 00:11:55.936	finito: 2023-12-25 00:11:56.108	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336979,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:56.311	finito: 2023-12-25 00:11:56.530	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336979,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26729.654}
+iniziato: 2023-12-25 00:11:57.157	finito: 2023-12-25 00:11:57.391	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336978,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:57.532	finito: 2023-12-25 00:11:57.751	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336978,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26729.654}
+iniziato: 2023-12-25 00:11:57.766	finito: 2023-12-25 00:11:57.954	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336976,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:58.094	finito: 2023-12-25 00:11:58.329	tempo impiegato: 00:00.235	millis: 235
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336976,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26729.654}
+iniziato: 2023-12-25 00:11:58.438	finito: 2023-12-25 00:11:58.610	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336975,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:58.766	finito: 2023-12-25 00:11:58.969	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336975,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16608.025}
+iniziato: 2023-12-25 00:11:59.266	finito: 2023-12-25 00:11:59.438	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336974,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:11:59.579	finito: 2023-12-25 00:11:59.844	tempo impiegato: 00:00.265	millis: 265
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336974,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":13279.770}
+iniziato: 2023-12-25 00:11:59.876	finito: 2023-12-25 00:12:00.063	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336973,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:00.235	finito: 2023-12-25 00:12:00.501	tempo impiegato: 00:00.266	millis: 266
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336973,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":3396.190}
+iniziato: 2023-12-25 00:12:01.345	finito: 2023-12-25 00:12:01.563	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336972,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:01.720	finito: 2023-12-25 00:12:03.376	tempo impiegato: 00:01.656	millis: 1656
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336972,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":16608.025}
+iniziato: 2023-12-25 00:12:03.391	finito: 2023-12-25 00:12:03.563	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336971,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:03.704	finito: 2023-12-25 00:12:03.923	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336971,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19936.294}
+iniziato: 2023-12-25 00:12:03.938	finito: 2023-12-25 00:12:04.110	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336970,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:04.284	finito: 2023-12-25 00:12:04.504	tempo impiegato: 00:00.220	millis: 220
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336970,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":27164.557}
+iniziato: 2023-12-25 00:12:04.520	finito: 2023-12-25 00:12:04.707	tempo impiegato: 00:00.187	millis: 187
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336969,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:04.832	finito: 2023-12-25 00:12:05.051	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336969,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":26729.654}
+iniziato: 2023-12-25 00:12:05.067	finito: 2023-12-25 00:12:05.270	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336968,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:05.442	finito: 2023-12-25 00:12:05.676	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336968,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33420.436}
+iniziato: 2023-12-25 00:12:05.692	finito: 2023-12-25 00:12:05.863	tempo impiegato: 00:00.171	millis: 171
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336967,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:06.004	finito: 2023-12-25 00:12:06.176	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336967,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":6656.524}
+iniziato: 2023-12-25 00:12:06.192	finito: 2023-12-25 00:12:06.364	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336966,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:06.489	finito: 2023-12-25 00:12:06.770	tempo impiegato: 00:00.281	millis: 281
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336966,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":9951.508}
+iniziato: 2023-12-25 00:12:06.785	finito: 2023-12-25 00:12:06.942	tempo impiegato: 00:00.157	millis: 157
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336926,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:07.145	finito: 2023-12-25 00:12:07.364	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336926,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":33420.436}
+iniziato: 2023-12-25 00:12:07.379	finito: 2023-12-25 00:12:07.520	tempo impiegato: 00:00.141	millis: 141
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336921,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:07.692	finito: 2023-12-25 00:12:07.910	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336921,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":169084.125}
+iniziato: 2023-12-25 00:12:07.926	finito: 2023-12-25 00:12:08.098	tempo impiegato: 00:00.172	millis: 172
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336920,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:08.254	finito: 2023-12-25 00:12:08.442	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336920,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":19969.572}
+iniziato: 2023-12-25 00:12:08.457	finito: 2023-12-25 00:12:08.645	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336878,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:08.848	finito: 2023-12-25 00:12:09.051	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336878,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":547339.457}
+iniziato: 2023-12-25 00:12:09.504	finito: 2023-12-25 00:12:09.692	tempo impiegato: 00:00.188	millis: 188
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336877,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:09.864	finito: 2023-12-25 00:12:10.082	tempo impiegato: 00:00.218	millis: 218
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336877,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":170045.085}
+iniziato: 2023-12-25 00:12:10.114	finito: 2023-12-25 00:12:10.317	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336876,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:10.457	finito: 2023-12-25 00:12:10.676	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336876,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67613.357}
+iniziato: 2023-12-25 00:12:10.692	finito: 2023-12-25 00:12:10.926	tempo impiegato: 00:00.234	millis: 234
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336875,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:11.098	finito: 2023-12-25 00:12:11.301	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336875,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":67613.357}
+iniziato: 2023-12-25 00:12:11.332	finito: 2023-12-25 00:12:11.551	tempo impiegato: 00:00.219	millis: 219
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336874,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:11.692	finito: 2023-12-25 00:12:11.895	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336874,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":false,"importoRiscattoParziale":104819.302}
+iniziato: 2023-12-25 00:12:12.567	finito: 2023-12-25 00:12:12.770	tempo impiegato: 00:00.203	millis: 203
+
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1336873,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+iniziato: 2023-12-25 00:12:12.879	finito: 2023-12-25 00:12:13.082	tempo impiegato: 00:00.203	millis: 203
+
