@@ -16,7 +16,7 @@ public class PolizzeInputFileParserTest
 	[Fact]
 	public void Parse_NoInputFile_ReturnsEmptyList()
 	{
-		List<PolizzaInputDto> polizze = _parser.Parse(null);
+		SortedDictionary<string, PolizzaInputDto> polizze = _parser.Parse(null);
 
 		polizze.Should().NotBeNull().And.BeEmpty();
 	}
@@ -26,7 +26,7 @@ public class PolizzeInputFileParserTest
 	{
 		FileInfo file = new(Path.Combine("Resources", "PolizzeInput", "multiple-lines-with-empty-lines.txt"));
 
-		List<PolizzaInputDto> polizze = _parser.Parse(file);
+		SortedDictionary<string, PolizzaInputDto> polizze = _parser.Parse(file);
 
 		polizze.Should().NotBeNull().And.NotBeEmpty();
 		polizze.Count.Should().Be(2);
@@ -37,11 +37,11 @@ public class PolizzeInputFileParserTest
 	{
 		FileInfo file = new(Path.Combine("Resources", "PolizzeInput", "single-line.txt"));
 
-		List<PolizzaInputDto> polizze = _parser.Parse(file);
+		SortedDictionary<string, PolizzaInputDto> polizze = _parser.Parse(file);
 
 		polizze.Should().NotBeNull().And.NotBeEmpty();
 		polizze.Count.Should().Be(1);
-		PolizzaInputDto firstPolizza = polizze[0];
+		PolizzaInputDto firstPolizza = polizze.First().Value;
 		firstPolizza.NumeroRiga.Should().Be("1");
 		firstPolizza.Input.Should().Be("073   ;961       ;341;11;0;1337523;2022-12-19;NO0102                        ;073961");
 		firstPolizza.AgenziaGestione.Should().Be("073");

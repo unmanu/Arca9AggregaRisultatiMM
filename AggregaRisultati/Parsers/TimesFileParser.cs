@@ -1,4 +1,5 @@
 ﻿using AggregaRisultati.Models;
+using AggregaRisultati.Utils;
 using System.Text;
 
 namespace AggregaRisultati.Parsers;
@@ -6,9 +7,9 @@ namespace AggregaRisultati.Parsers;
 public class TimesFileParser
 {
 
-	public List<TimesDto> Parse(FileInfo? timesFile)
+	public SortedDictionary<string, TimesDto> Parse(FileInfo? timesFile)
 	{
-		List<TimesDto> times = new();
+		SortedDictionary<string, TimesDto> times = new();
 		if (timesFile == null)
 		{
 			return times;
@@ -23,7 +24,12 @@ public class TimesFileParser
 			{
 				if (stringBuilder.Length > 0)
 				{
-					times.Add(blockParser.Parse(stringBuilder.ToString()));
+					TimesDto timesDto = blockParser.Parse(stringBuilder.ToString());
+					bool added = times.TryAdd(KeyExtractor.Extract(timesDto) + "_" + timesDto.RiscattoTotale, timesDto);
+					if (!added)
+					{
+						Console.WriteLine("Failed to insert a second row for " + KeyExtractor.Extract(timesDto));
+					}
 					stringBuilder.Clear();
 				}
 			}
@@ -34,7 +40,12 @@ public class TimesFileParser
 		}
 		if (stringBuilder.Length > 0)
 		{
-			times.Add(blockParser.Parse(stringBuilder.ToString()));
+			TimesDto timesDto = blockParser.Parse(stringBuilder.ToString());
+			bool added = times.TryAdd(KeyExtractor.Extract(timesDto) + "_" + timesDto.RiscattoTotale, timesDto);
+			if (!added)
+			{
+				Console.WriteLine("Failed to insert a second row for " + KeyExtractor.Extract(timesDto));
+			}
 			stringBuilder.Clear();
 		}
 

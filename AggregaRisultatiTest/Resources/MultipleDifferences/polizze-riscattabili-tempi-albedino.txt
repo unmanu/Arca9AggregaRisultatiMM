@@ -8,5 +8,5 @@ iniziato: 2023-12-25 00:09:53.159	finito: 2023-12-25 00:09:53.347	tempo impiegat
 
 			
 
-albedinoRequest= {"polizzaKey":{"numeroPolizza":1337636,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
+albedinoRequest= {"polizzaKey":{"numeroPolizza":1337637,"numeroCollettiva":0,"sottoCategoria":"11","codiceSocieta":341,"codiceAgenzia":""},"riscattoTotale":true,"importoRiscattoParziale":null}
 iniziato: 2023-12-25 00:09:53.519	finito: 2023-12-25 00:09:53.753	tempo impiegato: 00:00.234	millis: 234

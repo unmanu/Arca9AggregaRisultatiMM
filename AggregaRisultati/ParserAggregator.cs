@@ -14,15 +14,15 @@ public class ParserAggregator()
 		Console.WriteLine("parsed args");
 
 		DifferencesFileParser differencesFileParser = new();
-		List<DifferenceDto> differences = differencesFileParser.Parse(input.DifferencesFile);
+		SortedDictionary<string, DifferenceDto> differences = differencesFileParser.Parse(input.DifferencesFile);
 		Console.WriteLine("parsed differences");
 
 		PolizzeInputFileParser polizzeInputFileParser = new();
-		List<PolizzaInputDto> polizzeInput = polizzeInputFileParser.Parse(input.PolizzeInputFile);
+		SortedDictionary<string, PolizzaInputDto> polizzeInput = polizzeInputFileParser.Parse(input.PolizzeInputFile);
 		Console.WriteLine("parsed polizze input");
 
 		TimesFileParser timesFileParser = new();
-		List<TimesDto> times = timesFileParser.Parse(input.TimesFile);
+		SortedDictionary<string, TimesDto> times = timesFileParser.Parse(input.TimesFile);
 		Console.WriteLine("parsed times");
 
 		IWriter writer = WriterFactory.CreateWriter();

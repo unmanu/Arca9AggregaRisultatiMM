@@ -1,11 +1,10 @@
 ﻿using AggregaRisultati.Models;
-using AggregaRisultati.Utils;
 
 namespace AggregaRisultati.Writers;
 
 public class CsvWriter : IWriter
 {
-	public string Write(DirectoryInfo directory, List<DifferenceDto> differences, List<PolizzaInputDto> polizzeInput, List<TimesDto> times)
+	public string Write(DirectoryInfo directory, SortedDictionary<string, DifferenceDto> differences, SortedDictionary<string, PolizzaInputDto> polizzeInput, SortedDictionary<string, TimesDto> times)
 	{
 		string outputFile = Path.Combine(directory.FullName, "Differenze.csv");
 
@@ -25,47 +24,42 @@ public class CsvWriter : IWriter
 		return outputFile;
 	}
 
-	private static void AggregateAll(List<DifferenceDto> differences, List<PolizzaInputDto> polizzeInput, List<TimesDto> times, StreamWriter writer)
+	private static void AggregateAll(SortedDictionary<string, DifferenceDto> differences, SortedDictionary<string, PolizzaInputDto> polizzeInput, SortedDictionary<string, TimesDto> times, StreamWriter writer)
 	{
-		SortedSet<string> keys = GetKeys(differences, polizzeInput, times);
+		SortedSet<string> keys = GetKeys(differences, polizzeInput);
 		int count = 0;
 		foreach (string key in keys)
 		{
 			count++;
-			DifferenceDto? difference = differences.FirstOrDefault(x => key == KeyExtractor.Extract(x));
-			PolizzaInputDto? polizza = polizzeInput.FirstOrDefault(x => key == KeyExtractor.Extract(x));
-			List<TimesDto> timesForKey = times.Where(x => key == KeyExtractor.Extract(x) && x.RiscattoTotale != null).ToList();
-			TimesDto? timesTotale = timesForKey.FirstOrDefault(x => x.RiscattoTotale ?? false);
-			TimesDto? timesParziale = timesForKey.FirstOrDefault(x => !x.RiscattoTotale ?? false);
+			differences.TryGetValue(key, out DifferenceDto? difference);
+			polizzeInput.TryGetValue(key, out PolizzaInputDto? polizza);
+			times.TryGetValue(key + "_true", out TimesDto? timesTotale);
+			times.TryGetValue(key + "_false", out TimesDto? timesParziale);
 
 			Aggregator aggregator = new(difference, polizza, timesTotale, timesParziale);
 			WriteLine(writer, aggregator, false);
 		}
 	}
 
-	private static SortedSet<string> GetKeys(List<DifferenceDto> differences, List<PolizzaInputDto> polizzeInput, List<TimesDto> times)
+	private static SortedSet<string> GetKeys(SortedDictionary<string, DifferenceDto> differences, SortedDictionary<string, PolizzaInputDto> polizzeInput)
 	{
 		SortedSet<string> keys = new();
-		foreach (DifferenceDto item in differences)
+		foreach (var item in differences)
 		{
-			keys.Add(KeyExtractor.Extract(item));
+			keys.Add(item.Key);
 		}
-		foreach (PolizzaInputDto item in polizzeInput)
+		foreach (var item in polizzeInput)
 		{
-			keys.Add(KeyExtractor.Extract(item));
-		}
-		foreach (TimesDto item in times)
-		{
-			keys.Add(KeyExtractor.Extract(item));
+			keys.Add(item.Key);
 		}
 		return keys;
 	}
 
-	private static void AggregateOnlyDifferences(List<DifferenceDto> differences, StreamWriter writer)
+	private static void AggregateOnlyDifferences(SortedDictionary<string, DifferenceDto> differences, StreamWriter writer)
 	{
-		foreach (DifferenceDto difference in differences)
+		foreach (var difference in differences)
 		{
-			Aggregator aggregator = new(difference);
+			Aggregator aggregator = new(difference.Value);
 			WriteLine(writer, aggregator, false);
 		}
 	}

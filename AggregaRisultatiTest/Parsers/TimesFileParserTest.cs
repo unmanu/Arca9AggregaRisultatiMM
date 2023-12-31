@@ -18,7 +18,7 @@ public class TimesFileParserTest
 	{
 		FileInfo file = new(Path.Combine("Resources", "EmptyDifferencesFile", InputParser.TimesFileName));
 
-		List<TimesDto> times = _parser.Parse(file);
+		SortedDictionary<string, TimesDto> times = _parser.Parse(file);
 
 		times.Should().NotBeNull().And.BeEmpty();
 	}
@@ -28,7 +28,7 @@ public class TimesFileParserTest
 	{
 		FileInfo file = new(Path.Combine("Resources", "MultipleDifferences", InputParser.TimesFileName));
 
-		List<TimesDto> times = _parser.Parse(file);
+		SortedDictionary<string, TimesDto> times = _parser.Parse(file);
 
 		times.Should().NotBeNull().And.NotBeEmpty();
 		times.Count.Should().Be(3);
@@ -39,11 +39,11 @@ public class TimesFileParserTest
 	{
 		FileInfo file = new(Path.Combine("Resources", "SingleEndsWithoutBlankLines", InputParser.TimesFileName));
 
-		List<TimesDto> times = _parser.Parse(file);
+		SortedDictionary<string, TimesDto> times = _parser.Parse(file);
 
 		times.Should().NotBeNull().And.NotBeEmpty();
 		times.Count.Should().Be(1);
-		times[0].NumeroPolizza.Should().NotBeNull().And.Be("1337636");
+		times.First().Value.NumeroPolizza.Should().NotBeNull().And.Be("1337636");
 	}
 
 }

@@ -42,20 +42,19 @@ public class CsvWriterTest
 	[Fact]
 	public void Write_MultipleDifferences_ReturnsPathToExcelWithMultipleRows()
 	{
-		List<DifferenceDto> differences = [
-			new()
-			{
-				NumeroPolizza = "123456789"
-			},
-			new()
-			{
-				NumeroPolizza = "111222333"
-			},
-			new()
-			{
-				NumeroPolizza = "444555666"
-			}
-		];
+		SortedDictionary<string, DifferenceDto> differences = new();
+		differences.Add("1", new()
+		{
+			NumeroPolizza = "123456789"
+		});
+		differences.Add("2", new()
+		{
+			NumeroPolizza = "111222333"
+		});
+		differences.Add("3", new()
+		{
+			NumeroPolizza = "444555666"
+		});
 
 		string outputFilePath = _writer.Write(_directoryPath, differences, [], []);
 
@@ -74,28 +73,28 @@ public class CsvWriterTest
 	[Fact]
 	public void Write_SpecificDifference_ReturnsPathToExcelWithAllTheDataOfTheDifference()
 	{
-		List<DifferenceDto> differences = [
-			new()
-			{
-				AgenziaGestione = "001",
-				CodiceProdotto = "961",
-				CodiceSocieta = "341",
-				Categoria = "11",
-				NumeroCollettiva = "0",
-				NumeroPolizza = "123456789",
-				Errore = "errore",
-				ErroreCics = @"errore cics
+		SortedDictionary<string, DifferenceDto> differences = new();
+		differences.Add("1", new()
+		{
+			AgenziaGestione = "001",
+			CodiceProdotto = "961",
+			CodiceSocieta = "341",
+			Categoria = "11",
+			NumeroCollettiva = "0",
+			NumeroPolizza = "123456789",
+			Errore = "errore",
+			ErroreCics = @"errore cics
 errore seconda riga",
-				ErroreAlbedino = "errore albedino",
-				IsParziale = false,
-				ImportoNettoCics = "5.500",
-				ImportoLordoCics = "0.000",
-				ImposteLordoCics = "",
-				ImportoNettoAlbedino = "15923.301",
-				ImportoLordoAlbedino = "1.000",
-				ImposteLordoAlbedino = "0.000"
-			}
-		];
+			ErroreAlbedino = "errore albedino",
+			IsParziale = false,
+			ImportoNettoCics = "5.500",
+			ImportoLordoCics = "0.000",
+			ImposteLordoCics = "",
+			ImportoNettoAlbedino = "15923.301",
+			ImportoLordoAlbedino = "1.000",
+			ImposteLordoAlbedino = "0.000"
+		}
+		);
 
 		string outputFilePath = _writer.Write(_directoryPath, differences, [], []);
 
@@ -108,23 +107,23 @@ errore seconda riga",
 			csv.HeaderRecord?.Length.Should().Be(Aggregator.NUMBER_OF_FIELDS);
 			var records = csv.GetRecords<CsvReadDto>();
 			CsvReadDto firstRow = records.FirstOrDefault() ?? throw new Exception();
-			firstRow.AgenziaGestione.Should().Be(differences[0].AgenziaGestione);
-			firstRow.CodiceProdotto.Should().Be(differences[0].CodiceProdotto);
-			firstRow.CodiceSocieta.Should().Be(differences[0].CodiceSocieta);
-			firstRow.Categoria.Should().Be(differences[0].Categoria);
-			firstRow.NumeroCollettiva.Should().Be(differences[0].NumeroCollettiva);
-			firstRow.NumeroPolizza.Should().Be(differences[0].NumeroPolizza);
-			firstRow.Errore.Should().Be(differences[0].Errore);
+			firstRow.AgenziaGestione.Should().Be(differences.First().Value.AgenziaGestione);
+			firstRow.CodiceProdotto.Should().Be(differences.First().Value.CodiceProdotto);
+			firstRow.CodiceSocieta.Should().Be(differences.First().Value.CodiceSocieta);
+			firstRow.Categoria.Should().Be(differences.First().Value.Categoria);
+			firstRow.NumeroCollettiva.Should().Be(differences.First().Value.NumeroCollettiva);
+			firstRow.NumeroPolizza.Should().Be(differences.First().Value.NumeroPolizza);
+			firstRow.Errore.Should().Be(differences.First().Value.Errore);
 			firstRow.TipoRiscatto.Should().Be("TOTALE");
-			firstRow.ErroreCics.Should().Be(differences[0].ErroreCics);
-			firstRow.ErroreAlbedino.Should().Be(differences[0].ErroreAlbedino);
-			firstRow.AgenziaGestione.Should().Be(differences[0].AgenziaGestione);
-			firstRow.ImportoNettoCics.Should().Be(differences[0].ImportoNettoCics);
-			firstRow.ImportoLordoCics.Should().Be(differences[0].ImportoLordoCics);
-			firstRow.ImposteLordoCics.Should().Be(differences[0].ImposteLordoCics);
-			firstRow.ImportoNettoAlbedino.Should().Be(differences[0].ImportoNettoAlbedino);
-			firstRow.ImportoLordoAlbedino.Should().Be(differences[0].ImportoLordoAlbedino);
-			firstRow.ImposteLordoAlbedino.Should().Be(differences[0].ImposteLordoAlbedino);
+			firstRow.ErroreCics.Should().Be(differences.First().Value.ErroreCics);
+			firstRow.ErroreAlbedino.Should().Be(differences.First().Value.ErroreAlbedino);
+			firstRow.AgenziaGestione.Should().Be(differences.First().Value.AgenziaGestione);
+			firstRow.ImportoNettoCics.Should().Be(differences.First().Value.ImportoNettoCics);
+			firstRow.ImportoLordoCics.Should().Be(differences.First().Value.ImportoLordoCics);
+			firstRow.ImposteLordoCics.Should().Be(differences.First().Value.ImposteLordoCics);
+			firstRow.ImportoNettoAlbedino.Should().Be(differences.First().Value.ImportoNettoAlbedino);
+			firstRow.ImportoLordoAlbedino.Should().Be(differences.First().Value.ImportoLordoAlbedino);
+			firstRow.ImposteLordoAlbedino.Should().Be(differences.First().Value.ImposteLordoAlbedino);
 		}
 	}
 

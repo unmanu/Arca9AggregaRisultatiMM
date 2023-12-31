@@ -18,7 +18,7 @@ public class DifferencesFileParserTest
 	{
 		FileInfo differencesFile = new(Path.Combine("Resources", "EmptyDifferencesFile", InputParser.DifferencesFileName));
 
-		List<DifferenceDto> differences = _parser.Parse(differencesFile);
+		SortedDictionary<string, DifferenceDto> differences = _parser.Parse(differencesFile);
 
 		differences.Should().NotBeNull().And.BeEmpty();
 	}
@@ -28,7 +28,7 @@ public class DifferencesFileParserTest
 	{
 		FileInfo differencesFile = new(Path.Combine("Resources", "MultipleDifferences", InputParser.DifferencesFileName));
 
-		List<DifferenceDto> differences = _parser.Parse(differencesFile);
+		SortedDictionary<string, DifferenceDto> differences = _parser.Parse(differencesFile);
 
 		differences.Should().NotBeNull().And.NotBeEmpty();
 		differences.Count.Should().Be(4);
@@ -39,11 +39,11 @@ public class DifferencesFileParserTest
 	{
 		FileInfo differencesFile = new(Path.Combine("Resources", "SingleEndsWithoutBlankLines", InputParser.DifferencesFileName));
 
-		List<DifferenceDto> differences = _parser.Parse(differencesFile);
+		SortedDictionary<string, DifferenceDto> differences = _parser.Parse(differencesFile);
 
 		differences.Should().NotBeNull().And.NotBeEmpty();
 		differences.Count.Should().Be(1);
-		differences[0].NumeroPolizza.Should().NotBeNull().And.Be("1337262");
+		differences.First().Value.NumeroPolizza.Should().NotBeNull().And.Be("1337262");
 	}
 
 }

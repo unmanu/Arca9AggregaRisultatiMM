@@ -1,4 +1,5 @@
 ﻿using AggregaRisultati.Models;
+using AggregaRisultati.Utils;
 using System.Text;
 
 namespace AggregaRisultati.Parsers;
@@ -6,9 +7,9 @@ namespace AggregaRisultati.Parsers;
 public class DifferencesFileParser
 {
 
-	public List<DifferenceDto> Parse(FileInfo differencesFile)
+	public SortedDictionary<string, DifferenceDto> Parse(FileInfo differencesFile)
 	{
-		List<DifferenceDto> differences = new();
+		SortedDictionary<string, DifferenceDto> differences = new();
 		StringBuilder stringBuilder = new();
 		DifferencesBlockParser blockParser = new();
 
@@ -19,7 +20,12 @@ public class DifferencesFileParser
 			{
 				if (stringBuilder.Length > 0)
 				{
-					differences.Add(blockParser.Parse(stringBuilder.ToString()));
+					DifferenceDto differenceDto = blockParser.Parse(stringBuilder.ToString());
+					bool added = differences.TryAdd(KeyExtractor.Extract(differenceDto), differenceDto);
+					if (!added)
+					{
+						Console.WriteLine("Failed to insert a second row for " + KeyExtractor.Extract(differenceDto));
+					}
 					stringBuilder.Clear();
 				}
 			}
@@ -30,7 +36,12 @@ public class DifferencesFileParser
 		}
 		if (stringBuilder.Length > 0)
 		{
-			differences.Add(blockParser.Parse(stringBuilder.ToString()));
+			DifferenceDto differenceDto = blockParser.Parse(stringBuilder.ToString());
+			bool added = differences.TryAdd(KeyExtractor.Extract(differenceDto), differenceDto);
+			if (!added)
+			{
+				Console.WriteLine("Failed to insert a second row for " + KeyExtractor.Extract(differenceDto));
+			}
 			stringBuilder.Clear();
 		}
 

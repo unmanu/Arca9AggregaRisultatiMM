@@ -1,13 +1,14 @@
 ﻿using AggregaRisultati.Models;
+using AggregaRisultati.Utils;
 
 namespace AggregaRisultati.Parsers;
 
 public class PolizzeInputFileParser
 {
 
-	public List<PolizzaInputDto> Parse(FileInfo? polizzeInputFile)
+	public SortedDictionary<string, PolizzaInputDto> Parse(FileInfo? polizzeInputFile)
 	{
-		List<PolizzaInputDto> polizze = new();
+		SortedDictionary<string, PolizzaInputDto> polizze = new();
 		if (polizzeInputFile == null)
 		{
 			return polizze;
@@ -23,7 +24,12 @@ public class PolizzeInputFileParser
 				continue;
 			}
 
-			polizze.Add(CreatePolizzeInput(line, rowNumber));
+			PolizzaInputDto polizzaInputDto = CreatePolizzeInput(line, rowNumber);
+			bool added = polizze.TryAdd(KeyExtractor.Extract(polizzaInputDto), polizzaInputDto);
+			if (!added)
+			{
+				Console.WriteLine("Failed to insert a second row for " + KeyExtractor.Extract(polizzaInputDto));
+			}
 
 		}
 
