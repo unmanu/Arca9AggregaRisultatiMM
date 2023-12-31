@@ -50,5 +50,9 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
+    
+  <ItemGroup>
+    <Folder Include="Resources\Integration\" />
+  </ItemGroup>
 
 </Project>
